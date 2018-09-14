@@ -22,3 +22,6 @@ dependencies:
 - name: spring-boot-watch-pipeline-activity
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.0
+- name: yojun-yu
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.4
